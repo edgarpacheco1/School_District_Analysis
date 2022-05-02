@@ -28,7 +28,7 @@ Thomas High School's 9th grade reading and math scores were altered for academic
 
 
 **- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
-  ![Change](Change.PNG)
+  ![Change](change.PNG)
 
 
  
