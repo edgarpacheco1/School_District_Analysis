@@ -12,9 +12,9 @@ Thomas High School's 9th grade reading and math scores were altered for academic
 **- How is the district summary affected?**
   The district summary was affected in this way:
 
-  ![District summary](District_summary.png)
+  ![District summary](District_summary.PNG)
 
-  ![District_summary2](District_summary2.png)
+  ![District_summary2](District_summary2.PNG)
 
 
 
@@ -22,13 +22,13 @@ Thomas High School's 9th grade reading and math scores were altered for academic
    
    The school summary was affected in this way for the Thomas High School with all the new values:
 
-   ![school_summary_affected](school_summary_affected.png)
+   ![school_summary_affected](school_summary_affected.PNG)
  
  
 
 
 **- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
-  ![Change](Change.png)
+  ![Change](Change.PNG)
 
 
  
@@ -37,25 +37,25 @@ Thomas High School's 9th grade reading and math scores were altered for academic
   
    1. Math and reading scores by grade
       
-    ![Thomas High School](Thomas_High_School.png)
+    ![Thomas High School](Thomas_High_School.PNG)
 
 
-   ![Thomas High School2](Thomas_High_School2.png)
+   ![Thomas High School2](Thomas_High_School2.PNG)
 
 
 
    2. Scores by school spending
 
-   ![Spending](spending.png)
+   ![Spending](spending.PNG)
 
 
    3. Scores by school size
 
-   ![Size](size.png)
+   ![Size](size.PNG)
 
    4. Scores by school size
 
-   ![Type](type.png)
+   ![Type](type.PNG)
  
  
 
